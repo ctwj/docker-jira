@@ -1,6 +1,9 @@
 # docker-jira
 jira
 
+```
+docker run --detach --publish 8080:8080 ctwj/jira
+```
 
 许可证
 ```
